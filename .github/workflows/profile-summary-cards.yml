@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: nxweb.com
     name: generate-github-cards
     permissions:
       contents: write
